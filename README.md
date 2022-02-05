@@ -1,2 +1,2 @@
-# email-spam-classification
-E-Mail spam/ham classifier using basic nlp 
+# Email Spam Classification
+E-Mail Spam / Ham classifier using basic NLP
